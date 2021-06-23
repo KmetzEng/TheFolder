@@ -1,0 +1,5 @@
+#IGNORE SECRETS.JS
+/server/Secrets.js
+/server/node_modules
+/client/folder/README.md
+/client/folder/node_modules
